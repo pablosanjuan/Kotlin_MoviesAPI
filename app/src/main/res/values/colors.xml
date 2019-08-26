@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FD6C5C</color>
+    <color name="colorPrimaryDark">#FD6C5C</color>
+    <color name="colorAccent">#f9a825</color>
+    <color name="colorTittle">#ffffff</color>
+    <color name="unselected">#cccccc</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="card_title">#00e676</color>
+    <color name="card_vote">#ffb300</color>
+</resources>
